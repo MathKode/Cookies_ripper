@@ -1,0 +1,5 @@
+pip install jsonlib
+pip install pybase64
+pip install pysqlite3
+pip install pywin32
+pip install pycrypto
