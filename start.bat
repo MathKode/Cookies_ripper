@@ -1,3 +1,3 @@
 @echo off
-Python310\Python.exe Get_cookies.py
+Python310_\Python.exe Get_cookies.py
 wait
