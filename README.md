@@ -5,7 +5,7 @@ Code qui récupère les cookies de Chrome, Opera et Edge et les déchiffre
 
 Pour start le code :
 ```
-python Get-cookies.py
+python Get_cookies.py
 ```
 
 Ne faite pas attention au start.bat
